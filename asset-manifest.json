@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/newsteller/static/css/main.c4e37b7e.css",
-    "main.js": "/newsteller/static/js/main.ba81ef01.js",
-    "static/js/787.9e69a5db.chunk.js": "/newsteller/static/js/787.9e69a5db.chunk.js",
+    "main.js": "/newsteller/static/js/main.e684fa20.js",
+    "static/js/787.0d536b1a.chunk.js": "/newsteller/static/js/787.0d536b1a.chunk.js",
     "static/media/sports.png": "/newsteller/static/media/sports.b4c16503c51f10e8939f.png",
     "static/media/headlines.png": "/newsteller/static/media/headlines.f12c3e3e16017b8ba930.png",
     "static/media/tech.png": "/newsteller/static/media/tech.3b7eee691de57584163a.png",
@@ -13,11 +13,11 @@
     "static/media/india_news.png": "/newsteller/static/media/india_news.4ee52da111b0fe2d3fd9.png",
     "index.html": "/newsteller/index.html",
     "main.c4e37b7e.css.map": "/newsteller/static/css/main.c4e37b7e.css.map",
-    "main.ba81ef01.js.map": "/newsteller/static/js/main.ba81ef01.js.map",
-    "787.9e69a5db.chunk.js.map": "/newsteller/static/js/787.9e69a5db.chunk.js.map"
+    "main.e684fa20.js.map": "/newsteller/static/js/main.e684fa20.js.map",
+    "787.0d536b1a.chunk.js.map": "/newsteller/static/js/787.0d536b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e37b7e.css",
-    "static/js/main.ba81ef01.js"
+    "static/js/main.e684fa20.js"
   ]
 }

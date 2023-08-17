@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/newsteller/static/css/main.c4e37b7e.css",
-    "main.js": "/newsteller/static/js/main.e684fa20.js",
-    "static/js/787.0d536b1a.chunk.js": "/newsteller/static/js/787.0d536b1a.chunk.js",
-    "static/media/sports.png": "/newsteller/static/media/sports.b4c16503c51f10e8939f.png",
-    "static/media/headlines.png": "/newsteller/static/media/headlines.f12c3e3e16017b8ba930.png",
-    "static/media/tech.png": "/newsteller/static/media/tech.3b7eee691de57584163a.png",
-    "static/media/health.png": "/newsteller/static/media/health.01d2f4b5617e3a20161f.png",
-    "static/media/business.png": "/newsteller/static/media/business.41745532f0185a93de34.png",
-    "static/media/us_news.png": "/newsteller/static/media/us_news.a7eef0fe0db3109b286d.png",
-    "static/media/science.png": "/newsteller/static/media/science.8370f1e37326df2d4306.png",
-    "static/media/india_news.png": "/newsteller/static/media/india_news.4ee52da111b0fe2d3fd9.png",
-    "index.html": "/newsteller/index.html",
-    "main.c4e37b7e.css.map": "/newsteller/static/css/main.c4e37b7e.css.map",
-    "main.e684fa20.js.map": "/newsteller/static/js/main.e684fa20.js.map",
-    "787.0d536b1a.chunk.js.map": "/newsteller/static/js/787.0d536b1a.chunk.js.map"
+    "main.css": "/NewsTeller/static/css/main.c4e37b7e.css",
+    "main.js": "/NewsTeller/static/js/main.09d25485.js",
+    "static/js/787.9e69a5db.chunk.js": "/NewsTeller/static/js/787.9e69a5db.chunk.js",
+    "static/media/sports.png": "/NewsTeller/static/media/sports.b4c16503c51f10e8939f.png",
+    "static/media/headlines.png": "/NewsTeller/static/media/headlines.f12c3e3e16017b8ba930.png",
+    "static/media/tech.png": "/NewsTeller/static/media/tech.3b7eee691de57584163a.png",
+    "static/media/health.png": "/NewsTeller/static/media/health.01d2f4b5617e3a20161f.png",
+    "static/media/business.png": "/NewsTeller/static/media/business.41745532f0185a93de34.png",
+    "static/media/us_news.png": "/NewsTeller/static/media/us_news.a7eef0fe0db3109b286d.png",
+    "static/media/science.png": "/NewsTeller/static/media/science.8370f1e37326df2d4306.png",
+    "static/media/india_news.png": "/NewsTeller/static/media/india_news.4ee52da111b0fe2d3fd9.png",
+    "index.html": "/NewsTeller/index.html",
+    "main.c4e37b7e.css.map": "/NewsTeller/static/css/main.c4e37b7e.css.map",
+    "main.09d25485.js.map": "/NewsTeller/static/js/main.09d25485.js.map",
+    "787.9e69a5db.chunk.js.map": "/NewsTeller/static/js/787.9e69a5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e37b7e.css",
-    "static/js/main.e684fa20.js"
+    "static/js/main.09d25485.js"
   ]
 }
